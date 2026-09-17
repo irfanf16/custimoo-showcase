@@ -38,13 +38,6 @@ Front-end engineer
 **Production tooling.** Client-side XLSX import/export for bulk design data, jsPDF + barcode generation for order sheets, Socket.io and Laravel Echo for live admin updates.
 
 
-## Screenshots
-
-<!-- ![Designer 2D](docs/designer-2d.png) -->
-<!-- ![Preview 3D](docs/preview-3d.png) -->
-<!-- ![Admin Dashboard](docs/admin-dashboard.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
