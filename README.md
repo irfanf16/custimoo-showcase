@@ -2,12 +2,12 @@
 
 **Multi-tenant SaaS · Vue 3 + TypeScript · 5 repos**
 
-A white-label product designer brands embed on their store. Customers drop artwork and text onto a physical product and see a live 3D preview before ordering. I led the front-end rebuild from Vue 2 to Vue 3 + TypeScript.
+A white-label product designer brands embed on their store. Customers drop artwork and text onto a physical product and see a live 3D preview before ordering. Rebuilt from Vue 2 to Vue 3 + TypeScript.
 
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Front-end lead on the designer canvas — text rendering, colour matching and the 3D preview; led the v1 → v2 migration.
+Front-end engineer
 
 ## Architecture
 
